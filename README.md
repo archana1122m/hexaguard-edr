@@ -80,8 +80,6 @@ HexaGuard-EDR/
 ├── blacklist/
 │   ├── process_blacklist.txt
 │   └── path_blacklist.txt
-│
-├── screenshots/
 ```
 
 ---
