@@ -1,0 +1,7 @@
+mimikatz.exe
+nc.exe
+ncat.exe
+netcat.exe
+keylogger.exe
+malware.exe
+psexec.exe
