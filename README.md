@@ -224,13 +224,11 @@ Recommended screenshots:
 - Terminal Output
 - Dashboard Output
   
-<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/5048d54b-a483-42a0-a1a8-65af299e8a68" />
-<img width="1920" height="1080" alt="dashboard_output" src="https://github.com/user-attachments/assets/c12a13c6-3d18-477f-bda5-d56cc4c1216c" />
-<img width="1920" height="1080" alt="terminal_output" src="https://github.com/user-attachments/assets/76d31e7a-11aa-458f-b85f-a2e2f1cad86b" />
-<img width="1920" height="1080" alt="alert_generation" src="https://github.com/user-attachments/assets/b30b5e3e-9e8c-45df-b028-586150a8c18c" />
-<img width="1920" height="1080" alt="testing" src="https://github.com/user-attachments/assets/95036ca3-43ab-480d-acb2-1efa0fac83b3" />
-
-
+<img width="960" height="503" alt="dashboard_output" src="https://github.com/user-attachments/assets/6e178ac0-718d-400c-8a1b-cf147d58765e" />
+<img width="941" height="480" alt="terminal_output" src="https://github.com/user-attachments/assets/5584c9bf-0a94-4127-924f-e4cdeaecbfb5" />
+<img width="945" height="459" alt="alert_generation" src="https://github.com/user-attachments/assets/348b051b-37e0-47f3-a743-9c5490361fa5" />
+<img width="942" height="375" alt="testing" src="https://github.com/user-attachments/assets/26d1d898-b3df-4ad8-b505-5452c0feb62f" />
+<img width="960" height="503" alt="dashboard" src="https://github.com/user-attachments/assets/2ee8077b-c5e3-49b1-a12b-f014a5ac9811" />
 
 ---
 
