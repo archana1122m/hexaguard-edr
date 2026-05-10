@@ -4,19 +4,11 @@ powershell -enc VwBoAGkAbABlACAAKAAkAHQAcgB1AGUAKQAgAHsAIABTAHQAYQByAHQALQBTAGwA
 
 2. Blacklisted Malware Detection
 
-Copy CMD as mimikatz
-
-copy C:\Windows\System32\cmd.exe mimikatz.exe
-
 Run
 
 mimikatz.exe
 
 3. Suspicious Path Execution Detection
-
-Copy into Temp
-
-copy C:\Windows\System32\cmd.exe %TEMP%\evil.exe
 
 Run
 
